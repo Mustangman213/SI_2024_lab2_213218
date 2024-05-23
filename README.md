@@ -4,3 +4,4 @@
 
 ###  Control Flow Graph
 
+![Lab2_SI_213218](https://github.com/Mustangman213/SI_2024_lab2_213218/assets/163764973/18f8c9f4-95f7-4463-9306-ff17b4697420)
